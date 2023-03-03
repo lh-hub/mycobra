@@ -60,7 +60,7 @@ cobra-cli add config
 cobra-cli add create -p 'configCmd'
 ```
 
-然后城市带参数运行，会看到相应的输出
+然后带参数运行，会看到相应的输出
 
 ```bash
 go run main.go serve
